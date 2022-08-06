@@ -1,4 +1,6 @@
-### Hi, I am Leo 👋
+### Hi, I am Leo. 👋
+
+# I'm a Developer with a big love for business logic.
 
 - 🔭 I’m currently working on Headless CMS
 - 🌱 I’m currently learning Swift
