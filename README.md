@@ -1,10 +1,7 @@
 ### Hi, I am Leo. 👋
 
-# I'm a Developer with a big love for business logic.
+# I'm a Developer.
 
-- 🔭 I’m currently working on Headless CMS
-- 🌱 I’m currently building a standalone authenticator
-- 💬 Ask me about me, myself and I
-- 📫 How to reach me: leo@ellelab.dev
+- 🔭 I’m currently working on a healthy framework
 - ⚡ Fun fact: I don't like PHP
 
