@@ -2,5 +2,6 @@
 
 # I'm a Developer.
 - 🦕 Deno Lover
-- 🦀 Building a game with Rust.
+- 🦫 Falling for GO
+- 🦀 Building things with Rust.
 - 🐶 Producing the Hushkey products
